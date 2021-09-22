@@ -130,6 +130,7 @@ namespace Lab4_1911185
 			this.txtDiaChi.Text = "";
 			this.txtPicture.Text = "";
 			this.pbSinhVien.ImageLocation = "";
+
 		}
 
 		private void btnLuu_Click(object sender, EventArgs e)
